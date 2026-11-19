@@ -24,3 +24,6 @@ Client names are withheld. These are platform-reported figures from supplied sna
 
 ## Read
 Practical guides on Google Ads, Meta Ads and tracking: [Marketing Notes](https://harshit-pandey-growth.harshit-pandey-growth.workers.dev/blog)
+
+## Case studies
+Anonymised working notes from real accounts: [marketing-case-studies](https://github.com/Harshity2j/marketing-case-studies)
